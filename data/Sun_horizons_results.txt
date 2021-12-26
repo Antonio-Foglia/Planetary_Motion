@@ -1,0 +1,200 @@
+﻿*******************************************************************************
+ Revised: July 31, 2013                  Sun                                 10
+
+ PHYSICAL PROPERTIES (updated 2018-Aug-15):
+  GM, km^3/s^2          = 132712440041.93938  Mass, 10^24 kg        = ~1988500
+  Vol. mean radius, km  = 695700              Volume, 10^12 km^3    = 1412000
+  Solar radius (IAU)    = 696000 km           Mean density, g/cm^3  = 1.408
+  Radius (photosphere)  = 696500 km           Angular diam at 1 AU  = 1919.3"
+  Photosphere temp., K  = 6600 (bottom)       Photosphere temp., K  = 4400(top)
+  Photospheric depth    = ~500 km             Chromospheric depth   = ~2500 km
+  Flatness, f           = 0.00005             Adopted sid. rot. per.= 25.38 d
+  Surface gravity       =  274.0 m/s^2        Escape speed, km/s    =  617.7
+  Pole (RA,DEC), deg.   = (286.13, 63.87)     Obliquity to ecliptic = 7.25 deg.
+  Solar constant (1 AU) = 1367.6 W/m^2        Luminosity, 10^24 J/s = 382.8
+  Mass-energy conv rate = 4.260 x 10^9 kg/s   Effective temp, K     = 5772
+  Sunspot cycle         = 11.4 yr             Cycle 24 sunspot min. = 2008 A.D.
+
+  Motion relative to nearby stars = apex : R.A.= 271 deg.; DEC.= +30 deg.
+                                    speed: 19.4 km/s (0.0112 au/day)
+  Motion relative to 2.73K BB/CBR = apex : l= 264.7 +- 0.8; b= 48.2 +- 0.5 deg.
+                                    speed: 369 +-11 km/s
+*******************************************************************************
+
+
+*******************************************************************************
+Ephemeris / WWW_USER Sun Dec 19 11:13:57 2021 Pasadena, USA      / Horizons
+*******************************************************************************
+Target body name: Sun (10)                        {source: DE441}
+Center body name: Solar System Barycenter (0)     {source: DE441}
+Center-site name: BODY CENTER
+*******************************************************************************
+Start time      : A.D. 2021-Dec-19 00:00:00.0000 TDB
+Stop  time      : A.D. 2022-Jan-18 00:00:00.0000 TDB
+Step-size       : 1440 minutes
+*******************************************************************************
+Center geodetic : 0.00000000,0.00000000,0.0000000 {E-lon(deg),Lat(deg),Alt(km)}
+Center cylindric: 0.00000000,0.00000000,0.0000000 {E-lon(deg),Dxy(km),Dz(km)}
+Center radii    : (undefined)                                                  
+Output units    : KM-S
+Output type     : GEOMETRIC cartesian states
+Output format   : 2 (position and velocity)
+Reference frame : Ecliptic of J2000.0
+*******************************************************************************
+JDTDB
+   X     Y     Z
+   VX    VY    VZ
+*******************************************************************************
+$$SOE
+2459567.500000000 = A.D. 2021-Dec-19 00:00:00.0000 TDB 
+ X =-1.277005464778503E+06 Y = 5.170986091011940E+05 Z = 2.560846524414650E+04
+ VX=-6.067412103517811E-03 VY=-1.455994587374296E-02 VZ= 2.571139150165137E-04
+2459568.500000000 = A.D. 2021-Dec-20 00:00:00.0000 TDB 
+ X =-1.277528817768505E+06 Y = 5.158404169529473E+05 Z = 2.563066011800375E+04
+ VX=-6.047249322947682E-03 VY=-1.456486316379477E-02 VZ= 2.566566065605180E-04
+2459569.500000000 = A.D. 2021-Dec-21 00:00:00.0000 TDB 
+ X =-1.278050430992394E+06 Y = 5.145818023265544E+05 Z = 2.565281555726149E+04
+ VX=-6.027139696101208E-03 VY=-1.456972558474427E-02 VZ= 2.562010867621272E-04
+2459570.500000000 = A.D. 2021-Dec-22 00:00:00.0000 TDB 
+ X =-1.278570309030420E+06 Y = 5.133227699332102E+05 Z = 2.567493171916928E+04
+ VX=-6.007082929862816E-03 VY=-1.457453378690224E-02 VZ= 2.557474207389564E-04
+2459571.500000000 = A.D. 2021-Dec-23 00:00:00.0000 TDB 
+ X =-1.279088456435266E+06 Y = 5.120633244366667E+05 Z = 2.569700876728090E+04
+ VX=-5.987078683374060E-03 VY=-1.457928821432349E-02 VZ= 2.552956899766826E-04
+2459572.500000000 = A.D. 2021-Dec-24 00:00:00.0000 TDB 
+ X =-1.279604877729001E+06 Y = 5.108034704721470E+05 Z = 2.571904687305179E+04
+ VX=-5.967126593148062E-03 VY=-1.458398907845438E-02 VZ= 2.548459966841676E-04
+2459573.500000000 = A.D. 2021-Dec-25 00:00:00.0000 TDB 
+ X =-1.280119577402379E+06 Y = 5.095432126676879E+05 Z = 2.574104621784235E+04
+ VX=-5.947226303680282E-03 VY=-1.458863632955205E-02 VZ= 2.543984688292821E-04
+2459574.500000000 = A.D. 2021-Dec-26 00:00:00.0000 TDB 
+ X =-1.280632559917179E+06 Y = 5.082825556678964E+05 Z = 2.576300699538688E+04
+ VX=-5.927377507068119E-03 VY=-1.459322962933105E-02 VZ= 2.539532658974884E-04
+2459575.500000000 = A.D. 2021-Dec-27 00:00:00.0000 TDB 
+ X =-1.281143829712365E+06 Y = 5.070215041600041E+05 Z = 2.578492941479167E+04
+ VX=-5.907579992183433E-03 VY=-1.459776832535154E-02 VZ= 2.535105853812020E-04
+2459576.500000000 = A.D. 2021-Dec-28 00:00:00.0000 TDB 
+ X =-1.281653391214957E+06 Y = 5.057600629020029E+05 Z = 2.580681370412520E+04
+ VX=-5.887833704637464E-03 VY=-1.460225142877308E-02 VZ= 2.530706699810075E-04
+2459577.500000000 = A.D. 2021-Dec-29 00:00:00.0000 TDB 
+ X =-1.282161248856602E+06 Y = 5.044982367524665E+05 Z = 2.582866011465818E+04
+ VX=-5.868138819017389E-03 VY=-1.460667759813972E-02 VZ= 2.526338154365216E-04
+2459578.500000000 = A.D. 2021-Dec-30 00:00:00.0000 TDB 
+ X =-1.282667407096956E+06 Y = 5.032360307013832E+05 Z = 2.585046892580154E+04
+ VX=-5.848495824658402E-03 VY=-1.461104513283622E-02 VZ= 2.522003788053189E-04
+2459579.500000000 = A.D. 2021-Dec-31 00:00:00.0000 TDB 
+ X =-1.283171870455100E+06 Y = 5.019734499009773E+05 Z = 2.587224045076827E+04
+ VX=-5.828905625544157E-03 VY=-1.461535198076119E-02 VZ= 2.517707868726852E-04
+2459580.500000000 = A.D. 2022-Jan-01 00:00:00.0000 TDB 
+ X =-1.283674643550172E+06 Y = 5.007104996950605E+05 Z = 2.589397504295033E+04
+ VX=-5.809369653802155E-03 VY=-1.461959576560110E-02 VZ= 2.513455442031695E-04
+2459581.500000000 = A.D. 2022-Jan-02 00:00:00.0000 TDB 
+ X =-1.284175731152326E+06 Y = 4.994471856449635E+05 Z = 2.591567310295181E+04
+ VX=-5.789889994678879E-03 VY=-1.462377383985951E-02 VZ= 2.509252401368834E-04
+2459582.500000000 = A.D. 2022-Jan-03 00:00:00.0000 TDB 
+ X =-1.284675138244848E+06 Y = 4.981835135495262E+05 Z = 2.593733508614785E+04
+ VX=-5.770469518842335E-03 VY=-1.462788337049820E-02 VZ= 2.505105537893059E-04
+2459583.500000000 = A.D. 2022-Jan-04 00:00:00.0000 TDB 
+ X =-1.285172870097783E+06 Y = 4.969194894560144E+05 Z = 2.595896151054651E+04
+ VX=-5.751112015367104E-03 VY=-1.463192146468128E-02 VZ= 2.501022558328942E-04
+2459584.500000000 = A.D. 2022-Jan-05 00:00:00.0000 TDB 
+ X =-1.285668932352753E+06 Y = 4.956551196581501E+05 Z = 2.598055296461112E+04
+ VX=-5.731822315809016E-03 VY=-1.463588534368031E-02 VZ= 2.497012055222691E-04
+2459585.500000000 = A.D. 2022-Jan-06 00:00:00.0000 TDB 
+ X =-1.286163331117484E+06 Y = 4.943904106771803E+05 Z = 2.600211011457522E+04
+ VX=-5.712606393316273E-03 VY=-1.463977256567519E-02 VZ= 2.493083414317251E-04
+2459586.500000000 = A.D. 2022-Jan-07 00:00:00.0000 TDB 
+ X =-1.286656073067595E+06 Y = 4.931253692200694E+05 Z = 2.602363371054083E+04
+ VX=-5.693471418480347E-03 VY=-1.464358130634916E-02 VZ= 2.489246635009419E-04
+2459587.500000000 = A.D. 2022-Jan-08 00:00:00.0000 TDB 
+ X =-1.287147165549651E+06 Y = 4.918600021149150E+05 Z = 2.604512459081892E+04
+ VX=-5.674425753354157E-03 VY=-1.464731066403563E-02 VZ= 2.485512073985511E-04
+2459588.500000000 = A.D. 2022-Jan-09 00:00:00.0000 TDB 
+ X =-1.287636616681656E+06 Y = 4.905943162135127E+05 Z = 2.606658368333726E+04
+ VX=-5.655478864389824E-03 VY=-1.465096104191186E-02 VZ= 2.481890051541777E-04
+2459589.500000000 = A.D. 2022-Jan-10 00:00:00.0000 TDB 
+ X =-1.288124435440020E+06 Y = 4.893283182646668E+05 Z = 2.608801200340420E+04
+ VX=-5.636641113548696E-03 VY=-1.465453447909778E-02 VZ= 2.478390387876776E-04
+2459590.500000000 = A.D. 2022-Jan-11 00:00:00.0000 TDB 
+ X =-1.288610631724352E+06 Y = 4.880620147580326E+05 Z = 2.610941064701663E+04
+ VX=-5.617923447195785E-03 VY=-1.465803498774563E-02 VZ= 2.475021840718057E-04
+2459591.500000000 = A.D. 2022-Jan-12 00:00:00.0000 TDB 
+ X =-1.289095216390114E+06 Y = 4.867954117413400E+05 Z = 2.613078077903183E+04
+ VX=-5.599336963263718E-03 VY=-1.466146882109511E-02 VZ= 2.471791487689244E-04
+2459592.500000000 = A.D. 2022-Jan-13 00:00:00.0000 TDB 
+ X =-1.289578201239069E+06 Y = 4.855285146195542E+05 Z = 2.615212361597808E+04
+ VX=-5.580892372161850E-03 VY=-1.466484461559878E-02 VZ= 2.468704114106102E-04
+2459593.500000000 = A.D. 2022-Jan-14 00:00:00.0000 TDB 
+ X =-1.290059598959985E+06 Y = 4.842613279486411E+05 Z = 2.617344040384766E+04
+ VX=-5.562599392756878E-03 VY=-1.466817336893647E-02 VZ= 2.465761675309727E-04
+2459594.500000000 = A.D. 2022-Jan-15 00:00:00.0000 TDB 
+ X =-1.290539423016389E+06 Y = 4.829938552390717E+05 Z = 2.619473239181540E+04
+ VX=-5.544466141462082E-03 VY=-1.467146823503581E-02 VZ= 2.462962902204978E-04
+2459595.500000000 = A.D. 2022-Jan-16 00:00:00.0000 TDB 
+ X =-1.291017687483599E+06 Y = 4.817260987849780E+05 Z = 2.621600080338691E+04
+ VX=-5.526498580043245E-03 VY=-1.467474413709959E-02 VZ= 2.460303109367993E-04
+2459596.500000000 = A.D. 2022-Jan-17 00:00:00.0000 TDB 
+ X =-1.291494406842915E+06 Y = 4.804580595339102E+05 Z = 2.623724680692083E+04
+ VX=-5.508700086180341E-03 VY=-1.467801722010772E-02 VZ= 2.457774246922969E-04
+2459597.500000000 = A.D. 2022-Jan-18 00:00:00.0000 TDB 
+ X =-1.291969595745987E+06 Y = 4.791897370093762E+05 Z = 2.625847148771514E+04
+ VX=-5.491071200115269E-03 VY=-1.468130418531431E-02 VZ= 2.455365210362274E-04
+$$EOE
+*******************************************************************************
+ 
+TIME
+
+  Barycentric Dynamical Time ("TDB" or T_eph) output was requested. This
+continuous relativistic coordinate time is equivalent to the relativistic
+proper time of a clock at rest in a reference frame comoving with the
+solar system barycenter but outside the system's gravity well. It is the
+independent variable in the solar system relativistic equations of motion.
+
+  TDB runs at a uniform rate of one SI second per second and is independent
+of irregularities in Earth's rotation.
+
+  Calendar dates prior to 1582-Oct-15 are in the Julian calendar system.
+Later calendar dates are in the Gregorian system.
+
+REFERENCE FRAME AND COORDINATES
+
+  Ecliptic at the standard reference epoch
+
+    Reference epoch: J2000.0
+    X-Y plane: adopted Earth orbital plane at the reference epoch
+               Note: IAU76 obliquity of 84381.448 arcseconds wrt ICRF X-Y plane
+    X-axis   : ICRF
+    Z-axis   : perpendicular to the X-Y plane in the directional (+ or -) sense
+               of Earth's north pole at the reference epoch.
+
+  Symbol meaning:
+
+    JDTDB    Julian Day Number, Barycentric Dynamical Time
+      X      X-component of position vector (km)
+      Y      Y-component of position vector (km)
+      Z      Z-component of position vector (km)
+      VX     X-component of velocity vector (km/sec)                           
+      VY     Y-component of velocity vector (km/sec)                           
+      VZ     Z-component of velocity vector (km/sec)                           
+
+ABERRATIONS AND CORRECTIONS
+
+ Geometric state vectors have NO corrections or aberrations applied.
+
+Computations by ...
+
+    Solar System Dynamics Group, Horizons On-Line Ephemeris System
+    4800 Oak Grove Drive, Jet Propulsion Laboratory
+    Pasadena, CA  91109   USA
+
+    General site: https://ssd.jpl.nasa.gov/
+    Mailing list: https://ssd.jpl.nasa.gov/email_list.html
+    System news : https://ssd.jpl.nasa.gov/horizons/news.html
+    User Guide  : https://ssd.jpl.nasa.gov/horizons/manual.html
+    Connect     : browser        https://ssd.jpl.nasa.gov/horizons/app.html#/x
+                  API            https://ssd-api.jpl.nasa.gov/doc/horizons.html
+                  command-line   telnet ssd.jpl.nasa.gov 6775
+                  e-mail/batch   https://ssd.jpl.nasa.gov/ftp/ssd/hrzn_batch.txt
+                  scripts        https://ssd.jpl.nasa.gov/ftp/ssd/SCRIPTS
+    Author      : Jon.D.Giorgini@jpl.nasa.gov
+*******************************************************************************
